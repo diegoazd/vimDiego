@@ -1,0 +1,3 @@
+set disablesites=mail.google.com, google.com/reader/, twitter.com, www.cloud.feedly.com/, www.feedly.com/, www.rememberthemilk.com
+set editor=gvim -f
+set showstatus=0

@@ -1,0 +1,8 @@
+[user]
+	name = hgmiguel
+	email = hgmiguel@gmail.com
+[core]
+	autocrlf = input
+
+[alias]
+    ls-untracked = ls-files -o --exclude-standard
